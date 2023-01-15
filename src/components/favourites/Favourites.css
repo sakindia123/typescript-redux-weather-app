@@ -1,0 +1,18 @@
+.fav-container {
+    max-width: 800px;
+    margin: auto;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex-direction: column;
+}
+
+.section__home {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    justify-content: center;
+    background-color: var(--section-overlay);
+    cursor: pointer;
+}
